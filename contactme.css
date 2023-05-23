@@ -1,0 +1,56 @@
+.h1 {
+  text-align: center; 
+  background-color: rgb(36, 74, 149);
+  font-size:70px;
+  font-family: roboto slab;
+  color: white; 
+  text-shadow: 4px 4px black; 
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+}
+
+.asterisk {
+  color: red;
+}
+
+.form {
+  font-family: roboto slab; 
+  font-size: 30px;
+  margin-left: 40px;
+}
+
+.firstandlastbox {
+  font-size: 30px;
+  width: 500px;
+  border-radius: 5px;
+}
+
+.senderemailbox {
+  font-size: 30px;
+  width: 500px;
+  border-radius: 5px;
+}
+
+.tellmeaboutyoubox {
+  font-size: 30px;
+  width: 900px;
+  height: 100px;
+  border-radius: 5px;
+}
+
+.sendbutton {
+  display: block;
+  margin-top: 40px;
+  background-color: rgb(36, 74, 149);
+  color: white; 
+  font-size: 30px;
+  transition: font-size 1s, opacity 1s;
+  border-radius: 5px;
+}
+
+.sendbutton:hover {
+  font-size: 35px;
+  opacity: 0.7;
+  cursor: pointer; 
+}

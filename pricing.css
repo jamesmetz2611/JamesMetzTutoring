@@ -1,0 +1,118 @@
+.h1 {
+  text-align: center; 
+  background-color: rgb(36, 74, 149);
+  font-size:70px;
+  font-family: roboto slab;
+  color: white; 
+  text-shadow: 4px 4px black; 
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-radius: 10px;
+  margin-top: 0px;
+}
+
+.singlesession {
+  background-color: rgb(103, 131, 188);
+  border-color: navy;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  color: white;
+  font-size: 30px;
+  font-family: roboto slab;
+  width: 400px;
+  margin-left:55px;
+  padding-top: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  text-align: center;
+  display: inline-block;
+}
+
+.booknow {
+  color: white; 
+  background-color: navy;
+  padding-right: 5px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  border-radius: 5px;
+  transition: font-size 1s;
+  text-decoration: none;
+}
+
+.booknow:hover {
+  font-size: 35px;
+  cursor: pointer; 
+}
+
+.ss1, .ss2 {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+
+
+.twowk {
+  display: inline-block;
+  background-color: rgb(58, 100, 184);
+  border-color: navy;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  color: white;
+  font-size: 30px;
+  font-family: roboto slab;
+  width: 400px;
+  margin-left:30px;
+  padding-top: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.two_wk1, .two_wk2 {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.valuepack {
+  display: inline-block;
+  background-color: rgb(0, 52, 157);
+  border-color: navy;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 10px;
+  color: white;
+  font-size: 30px;
+  font-family: roboto slab;
+  width: 400px;
+  margin-left:30px;
+  padding-top: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 10px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.vp1, .vp2 {
+  font-size: 40px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.payments {
+  background-color: rgb(103, 131, 188);
+  color: white; 
+  text-align: center; 
+  font-family: roboto slab; 
+  border-radius: 5px;
+}
